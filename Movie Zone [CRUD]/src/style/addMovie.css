@@ -1,0 +1,16 @@
+.addMovie{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
+.addMovie > input {
+    padding: 20px;
+    margin: 20px;
+}
+.addMovie > button{
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+}

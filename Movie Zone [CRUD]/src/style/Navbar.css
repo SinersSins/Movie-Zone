@@ -1,0 +1,14 @@
+.Navbar {
+    display: flex;
+    justify-content: space-around;
+    border: 2px dotted;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(205, 238, 238);
+    width: 100%;
+
+}
+.Navbar > div{
+    font-size: larger;
+    font-weight: 900;
+} 
