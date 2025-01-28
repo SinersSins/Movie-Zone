@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
-import { AddMovie } from './component/addMovie'
+import { AddMovie } from './component/AddMovie'
 import './App.css'
 import { Route,Routes } from 'react-router-dom'
 import { MovieList } from './component/MovieList'
